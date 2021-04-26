@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate for my BCI's project.
 - 🥅 2020 Goals: Contribute more to BCI's Open Source projects
-- ⚡ Fun fact:  Tesla + Turing [TT] 
+- ⚡ Fun fact:  Tesla + Turing [&pi] 
 
 
 
