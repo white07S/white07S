@@ -7,7 +7,7 @@
 - 🔭 I started thoery for BCI's!
 - ⚡ Automated trading systems and NFT's
 - 👯 I’m looking to collaborate for my BCI's project.
-- 🥅 2020 Goals: Contribute more to BCI's Open Source projects
+- 🥅 2022 Goals: Focus more on Automated trading system and BCI's
 - ⚡ Fun fact:  Tesla + Turing [π] 
 
 
