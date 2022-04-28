@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate for my BCI's project.
 - 🥅 2022 Goals: Focus more on Automated trading system and BCI's
 - ⚡ Fun fact:  Tesla + Turing [π] 
+- [Website](https://white7.netlify.app/home)
 
 
 
