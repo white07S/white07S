@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=white07S&" alt="white07S" /></p>
 
-![Metrics](https://metrics.lecoq.io/white07S?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&lines=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FWarsaw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=white07S&layout=compact&langs_count=6)](https://github.com/white07S/github-readme-stats)
