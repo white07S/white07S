@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preetam Sharma</h1>
-<h3 align="center">I'm a Developer with options body and swing brain!!</h3>
+<p><em>Artificial Intelligence Student at <a href="https://www.put.poznan.pl/">Poznan University of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Engineer at <a href="https://www.stonex.com/">StoneX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<h3>I'm a Quantitative Developer with options body and swing brain!!</h3>
 
 
 
