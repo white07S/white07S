@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I’m currently working on **Fintech project, Automated trading systems**
+- 🔭 Currently, I am working on a Fintech project involving Automated Trading Systems.
 
-- 🌱 I’m currently doing research **Cached HFT, Orderbook Modelling with statistical modelling**
+- 🌱 My ongoing research involves Cached High-Frequency Trading (HFT), as well as Orderbook Modeling with Statistical techniques.
 
-- 👯 I’m looking to collaborate on **Brain computer interface's**
+- 👯 I am eager to collaborate on Brain-Computer Interface projects.
 
-- 🤝 Modelling system for **High Frequency trading**
+- 🤝 I am actively working on Modeling Systems for High-Frequency Trading.
 
 - 👨‍💻 All of my projects are available at [https://github.com/white07S](https://github.com/white07S)
 
-- 💬 Ask me about **Python, Trading, Investment, Statistical computations and ML/DL**
+- 💬 Feel free to ask me about Python, Trading, Investment, Statistical Computations, and Machine Learning/Deep Learning.
 
 - 📫 How to reach me **sharmapreetam.uk@outlook.com**
 
