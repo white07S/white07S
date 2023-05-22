@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **sharmapreetam.uk@outlook.com**
 
-- 📄 Know about my experiences [https://white7.netlify.app/home](https://white7.netlify.app/home)
 
 
 
