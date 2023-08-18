@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Preetam Sharma</h1>
-<p><em>Artificial Intelligence Student at <a href="https://www.put.poznan.pl/">Poznan University of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Engineer at <a href="https://www.stonex.com/">StoneX</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<h3>I'm a Quantitative Developer with options body and swing brain!!</h3>
+<p><em>Student of Artificial Intelligence at <a href="https://www.put.poznan.pl/">Poznan University of Technology</a></em></p>
+<p><em>Data Engineer at <a href="https://www.stonex.com/">StoneX</a></em></p>
+<h3>Specialization: Quantitative Development, focusing on option-based financial models and swing trading strategies.</h3>
 
 
 
-- 🔭 Currently, I am working on a Fintech project involving Automated Trading Systems.
-
-- 🌱 My ongoing research involves Cached High-Frequency Trading (HFT), as well as Orderbook Modeling with Statistical techniques.
-
-- 👯 I am eager to collaborate on Brain-Computer Interface projects.
-
-- 🤝 I am actively working on Modeling Systems for High-Frequency Trading.
-
-- 👨‍💻 All of my projects are available at [https://github.com/white07S](https://github.com/white07S)
-
-- 💬 Feel free to ask me about Python, Trading, Investment, Statistical Computations, and Machine Learning/Deep Learning.
-
-- 📫 How to reach me **sharmapreetam.uk@outlook.com**
+<ul>
+    <li>🔭 At present, I am contributing to a Fintech initiative, concentrating on Automated Trading Systems.</li>
+    <li>🌱 I am currently researching Cached High-Frequency Trading (HFT) and Orderbook Modeling using Statistical methodologies.</li>
+    <li>👯 I have a keen interest in collaborating on Brain-Computer Interface ventures.</li>
+    <li>🤝 I am fervently working on Systems Modeling for High-Frequency Trading.</li>
+    <li>👨‍💻 My complete portfolio of projects is available at <a href="https://github.com/white07S">https://github.com/white07S</a>.</li>
+    <li>💬 I welcome queries related to Python, Trading, Investment, Statistical Computations, and Machine Learning/Deep Learning techniques.</li>
+    <li>📫 Reach out to me directly at <a href="mailto:sharmapreetam.uk@outlook.com">sharmapreetam.uk@outlook.com</a>.</li>
+</ul>
 
 
 
