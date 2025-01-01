@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preetam Sharma</h1>
 <p><em>Student of Artificial Intelligence at <a href="https://www.put.poznan.pl/">Poznan University of Technology</a></em></p>
-<p><em>Data Engineer at <a href="https://www.stonex.com/">StoneX</a></em></p>
+<p><em>Risk Modelling and Data Scientist at <a href="https://www.ubs.com/global/en.html">UBS</a></em></p>
 <h3>Specialization: Quantitative Development, focusing on option-based financial models and swing trading strategies.</h3>
 
 
