@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetam Sharma</h1>
-<p><em>Student of Artificial Intelligence at <a href="https://www.put.poznan.pl/">Poznan University of Technology</a></em></p>
+<p><em>Graduated from Artificial Intelligence at <a href="https://www.put.poznan.pl/">Poznan University of Technology</a></em></p>
 <p><em>Associate Director for Risk and AI modelling at <a href="https://www.ubs.com/global/en.html">UBS</a></em></p>
 <h3>Specialization: Quantitative Development, focusing on option-based financial models and swing trading strategies.</h3>
 
